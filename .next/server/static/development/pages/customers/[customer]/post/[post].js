@@ -1,7 +1,7 @@
 module.exports =
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
-/******/ 	var installedModules = require('../../../../../ssr-module-cache.js');
+/******/ 	var installedModules = require('../../../../../../ssr-module-cache.js');
 /******/
 /******/ 	// The require function
 /******/ 	function __webpack_require__(moduleId) {
@@ -93,10 +93,10 @@ module.exports =
 /************************************************************************/
 /******/ ({
 
-/***/ "./pages/customers/[customer]/[post].js":
-/*!**********************************************!*\
-  !*** ./pages/customers/[customer]/[post].js ***!
-  \**********************************************/
+/***/ "./pages/customers/[customer]/post/[post].js":
+/*!***************************************************!*\
+  !*** ./pages/customers/[customer]/post/[post].js ***!
+  \***************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -106,7 +106,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/router */ "next/router");
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/Users/jch4905/Projects/NextJSPlayground/FirstNextJs/pages/customers/[customer]/[post].js";
+var _jsxFileName = "/Users/jch4905/Projects/NextJSPlayground/FirstNextJs/pages/customers/[customer]/post/[post].js";
 
 
 
@@ -127,13 +127,13 @@ var Post = function Post() {
 /***/ }),
 
 /***/ 4:
-/*!****************************************************!*\
-  !*** multi ./pages/customers/[customer]/[post].js ***!
-  \****************************************************/
+/*!*********************************************************!*\
+  !*** multi ./pages/customers/[customer]/post/[post].js ***!
+  \*********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/jch4905/Projects/NextJSPlayground/FirstNextJs/pages/customers/[customer]/[post].js */"./pages/customers/[customer]/[post].js");
+module.exports = __webpack_require__(/*! /Users/jch4905/Projects/NextJSPlayground/FirstNextJs/pages/customers/[customer]/post/[post].js */"./pages/customers/[customer]/post/[post].js");
 
 
 /***/ }),

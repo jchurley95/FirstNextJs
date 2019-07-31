@@ -1,4 +1,4 @@
-(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/customers/[customer]/[post].js"],{
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/customers/[customer]/post/[post].js"],{
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/array/is-array.js":
 /*!***********************************************************************!*\
@@ -4869,21 +4869,21 @@ exports.formatWithValidation = formatWithValidation;
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fcustomers%2F%5Bcustomer%5D%2F%5Bpost%5D&absolutePagePath=%2FUsers%2Fjch4905%2FProjects%2FNextJSPlayground%2FFirstNextJs%2Fpages%2Fcustomers%2F%5Bcustomer%5D%2F%5Bpost%5D.js!./":
-/*!***********************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fcustomers%2F%5Bcustomer%5D%2F%5Bpost%5D&absolutePagePath=%2FUsers%2Fjch4905%2FProjects%2FNextJSPlayground%2FFirstNextJs%2Fpages%2Fcustomers%2F%5Bcustomer%5D%2F%5Bpost%5D.js ***!
-  \***********************************************************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fcustomers%2F%5Bcustomer%5D%2Fpost%2F%5Bpost%5D&absolutePagePath=%2FUsers%2Fjch4905%2FProjects%2FNextJSPlayground%2FFirstNextJs%2Fpages%2Fcustomers%2F%5Bcustomer%5D%2Fpost%2F%5Bpost%5D.js!./":
+/*!*************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fcustomers%2F%5Bcustomer%5D%2Fpost%2F%5Bpost%5D&absolutePagePath=%2FUsers%2Fjch4905%2FProjects%2FNextJSPlayground%2FFirstNextJs%2Fpages%2Fcustomers%2F%5Bcustomer%5D%2Fpost%2F%5Bpost%5D.js ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 
-    (window.__NEXT_P=window.__NEXT_P||[]).push(["/customers/[customer]/[post]", function() {
-      var page = __webpack_require__(/*! ./pages/customers/[customer]/[post].js */ "./pages/customers/[customer]/[post].js")
+    (window.__NEXT_P=window.__NEXT_P||[]).push(["/customers/[customer]/post/[post]", function() {
+      var page = __webpack_require__(/*! ./pages/customers/[customer]/post/[post].js */ "./pages/customers/[customer]/post/[post].js")
       if(true) {
-        module.hot.accept(/*! ./pages/customers/[customer]/[post].js */ "./pages/customers/[customer]/[post].js", function() {
-          if(!next.router.components["/customers/[customer]/[post]"]) return
-          var updatedPage = __webpack_require__(/*! ./pages/customers/[customer]/[post].js */ "./pages/customers/[customer]/[post].js")
-          next.router.update("/customers/[customer]/[post]", updatedPage.default || updatedPage)
+        module.hot.accept(/*! ./pages/customers/[customer]/post/[post].js */ "./pages/customers/[customer]/post/[post].js", function() {
+          if(!next.router.components["/customers/[customer]/post/[post]"]) return
+          var updatedPage = __webpack_require__(/*! ./pages/customers/[customer]/post/[post].js */ "./pages/customers/[customer]/post/[post].js")
+          next.router.update("/customers/[customer]/post/[post]", updatedPage.default || updatedPage)
         })
       }
       return { page: page.default || page }
@@ -8381,10 +8381,10 @@ module.exports = function(module) {
 
 /***/ }),
 
-/***/ "./pages/customers/[customer]/[post].js":
-/*!**********************************************!*\
-  !*** ./pages/customers/[customer]/[post].js ***!
-  \**********************************************/
+/***/ "./pages/customers/[customer]/post/[post].js":
+/*!***************************************************!*\
+  !*** ./pages/customers/[customer]/post/[post].js ***!
+  \***************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -8394,7 +8394,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/router */ "./node_modules/next/dist/client/router.js");
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/Users/jch4905/Projects/NextJSPlayground/FirstNextJs/pages/customers/[customer]/[post].js";
+var _jsxFileName = "/Users/jch4905/Projects/NextJSPlayground/FirstNextJs/pages/customers/[customer]/post/[post].js";
 
 
 
@@ -8415,13 +8415,13 @@ var Post = function Post() {
 /***/ }),
 
 /***/ 1:
-/*!***************************************************************************************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2Fcustomers%2F%5Bcustomer%5D%2F%5Bpost%5D&absolutePagePath=%2FUsers%2Fjch4905%2FProjects%2FNextJSPlayground%2FFirstNextJs%2Fpages%2Fcustomers%2F%5Bcustomer%5D%2F%5Bpost%5D.js ***!
-  \***************************************************************************************************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2Fcustomers%2F%5Bcustomer%5D%2Fpost%2F%5Bpost%5D&absolutePagePath=%2FUsers%2Fjch4905%2FProjects%2FNextJSPlayground%2FFirstNextJs%2Fpages%2Fcustomers%2F%5Bcustomer%5D%2Fpost%2F%5Bpost%5D.js ***!
+  \*****************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fcustomers%2F%5Bcustomer%5D%2F%5Bpost%5D&absolutePagePath=%2FUsers%2Fjch4905%2FProjects%2FNextJSPlayground%2FFirstNextJs%2Fpages%2Fcustomers%2F%5Bcustomer%5D%2F%5Bpost%5D.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fcustomers%2F%5Bcustomer%5D%2F%5Bpost%5D&absolutePagePath=%2FUsers%2Fjch4905%2FProjects%2FNextJSPlayground%2FFirstNextJs%2Fpages%2Fcustomers%2F%5Bcustomer%5D%2F%5Bpost%5D.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fcustomers%2F%5Bcustomer%5D%2Fpost%2F%5Bpost%5D&absolutePagePath=%2FUsers%2Fjch4905%2FProjects%2FNextJSPlayground%2FFirstNextJs%2Fpages%2Fcustomers%2F%5Bcustomer%5D%2Fpost%2F%5Bpost%5D.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fcustomers%2F%5Bcustomer%5D%2Fpost%2F%5Bpost%5D&absolutePagePath=%2FUsers%2Fjch4905%2FProjects%2FNextJSPlayground%2FFirstNextJs%2Fpages%2Fcustomers%2F%5Bcustomer%5D%2Fpost%2F%5Bpost%5D.js!./");
 
 
 /***/ }),

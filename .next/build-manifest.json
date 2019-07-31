@@ -16,7 +16,7 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/customers/[customer]/[post]": [
+    "/customers/[customer]/post/[post]": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
