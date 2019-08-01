@@ -19,10 +19,6 @@
     "/customers/[customer]/post/[post]": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
-    ],
-    "/customers/[customer]/profile": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
     ]
   }
 }
